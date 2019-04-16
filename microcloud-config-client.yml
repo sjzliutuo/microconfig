@@ -25,6 +25,6 @@ spring:
       name: microconfig-test-client
 
 eureka:
- client:
-  service-url:
-    defaultZone: http://admin:enjoy@localhost:7301/eureka
+  client:
+    service-url:
+      defaultZone: http://admin:enjoy@localhost:7301/eureka
